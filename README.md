@@ -8,5 +8,5 @@
 <p> Link: https://danielresende23.github.io/Landing-Page-Starbucks/ </p>
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./images/lading Page.png" />
+  <img alt="Starbucks" title="#Starbucks" src="./images/Landing Page .png" />
 </h1>
