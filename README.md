@@ -8,9 +8,8 @@
 <p> Link: https://danielresende23.github.io/Landing-Page-Starbucks/ </p>
 
 <h1 align="center">
-  <img alt="Starbucks" title="#Starbucks" src="./images/Landing Page .png" />
-  <img alt="Starbucks" title="#Starbucks" src="./images/Landing Page2 .png" />
-   <img alt="Starbucks" title="#Starbucks" src="./images/Landing Page3 .png" />
+  <img alt="Starbucks" title="#Starbucks" src="./images/20220306_223314.gif"/>
+  
  
  
 
